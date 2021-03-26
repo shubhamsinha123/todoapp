@@ -1,0 +1,7 @@
+.todo > button{
+    background-color: rgb(119, 11, 129);
+    max-width: 105px;
+    padding: 20px;
+    color: white;
+    margin: 15px;
+}
